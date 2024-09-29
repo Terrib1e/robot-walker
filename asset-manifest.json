@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/robot-walk-visualization/static/css/main.50190ec2.css",
-    "main.js": "/robot-walk-visualization/static/js/main.841b41af.js",
-    "index.html": "/robot-walk-visualization/index.html",
-    "main.50190ec2.css.map": "/robot-walk-visualization/static/css/main.50190ec2.css.map",
-    "main.841b41af.js.map": "/robot-walk-visualization/static/js/main.841b41af.js.map"
+    "main.css": "/robot-walker/static/css/main.50190ec2.css",
+    "main.js": "/robot-walker/static/js/main.841b41af.js",
+    "index.html": "/robot-walker/index.html",
+    "main.50190ec2.css.map": "/robot-walker/static/css/main.50190ec2.css.map",
+    "main.841b41af.js.map": "/robot-walker/static/js/main.841b41af.js.map"
   },
   "entrypoints": [
     "static/css/main.50190ec2.css",
