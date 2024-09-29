@@ -51,7 +51,7 @@ Follow these instructions to run the project locally.
 
 ### Clone the Repository
 
-```bash
+bash
 git clone https://github.com/<your-username>/robot-walk-visualization.git
 cd robot-walk-visualization
 
