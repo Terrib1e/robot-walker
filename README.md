@@ -103,30 +103,3 @@ robot-walk-visualization/
 │   └── index.css            # Styling
 ├── package.json             # Project dependencies and scripts
 └── README.md                # Project documentation
-How to Use the App
-Input Instructions: Enter a list of comma-separated positive integers representing the steps the robot should take in each direction (e.g., 1,2,4).
-Move the Robot: Click the "Move Robot" button to execute the instructions.
-Track Robot Movement: The robot will move on the grid, following the directions, and its path will be marked. If the robot revisits any point, it will stop.
-Reset the App: Click the "Reset Robot" button to clear the grid and start over.
-Technologies Used
-React: Frontend library for building the UI.
-TypeScript: Provides static typing and improves code maintainability.
-Tailwind CSS: Utility-first CSS framework for fast styling.
-npm: Package manager for JavaScript.
-Known Limitations
-The current implementation tracks visited points using an array, which results in O(n) space complexity (not O(1) as the ideal solution might require).
-The robot can only visualize movements up to a certain grid size, and performance may degrade for extremely large inputs.
-Future Improvements
-Optimize the space complexity to get closer to O(1).
-Improve the user interface with more advanced animations for the robot's movement.
-Add unit tests to ensure the functionality works as expected.
-Allow users to save and load instruction sets.
-License
-This project is open-source and available under the MIT License.
-
-Contact
-If you have any questions or want to contribute, feel free to reach out:
-
-GitHub: Your GitHub Username
-Email: your-email@example.com
-Thank you for using the Robot Walk Visualization app! 😊
